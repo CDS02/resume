@@ -1,0 +1,41 @@
+[{
+    "fname":"Anirudh",
+    "lname":"Gagneja",
+    "email":"Anirudhgagneja@gmail.com",
+    "phone": "(+1)7828825355",
+    "Address":"Brampton,ON,Canada"
+},
+{
+    "Introduction":65
+},
+{
+    "b_college":"Punjab Engineering College",
+    "b_time":"2018-2022",
+    "b_place":"Chandigarh,India",
+    "b_img":"https://lh3.googleusercontent.com/p/AF1QipMN_8W0-qLV_uWaz18b0vLYBKJHUUk1s2AJGksK=s680-w680-h510",
+    "b_des":"Bachelor's in Computer Science and Engineering",
+    "b_skill":["Data Structures and Algorithms","Operating Systems","Web Development","Machine Learning"],
+    "g_college":"Conestoga College",
+    "g_time":"2022-2023",
+    "g_img":"https://aspiresquare.com/wp-content/uploads/2021/12/Conestoga-College-1.jpg",
+    "g_place":"Kitchener,ON",
+    "g_des":"Reporting Systems and Database Development",
+    "g_skill":["Reporting Systems","Database Development","Big Data Analysis"]
+}
+,
+{
+    "Company_a":"Siemens-Healthineers",
+    "title_a":"Data Analysis Intern",
+    "time_a":"02/2021 - 07/2021",
+    "des_a":"Automating several repetitive tasks using VBA in excel and creating several functions and subroutines prepare data for various parts of data analysis pipeline.Creating new Views and Procedures in SQL server to add security layer and capturing their data in excel using python.",
+    "Comapny_b":"Hitbullseye",
+    "title_b":"Receptionist/Data Entry Clerk- Part Time",
+    "des_b":"Carried out data entry duties for a MBA coaching center in extremely fast paced work environment averaging around 400 entries daily with over 99% accuracy.Answering inbound phone calls and adding caller data to database and booking appointment for demo classes, making outbound calls and emailing various documents to clients.Presenting Daily data reports at the end of day using various excel charts to manager.",
+    "time_b":"10/2018 - 02/2020"
+},
+{
+    "Web":["Javascript","HTML/CSS","Reactjs","JQUERY","Chart.js","Nodejs"],
+    "Prog":["Java","Data Structures","Algorithms","Python","Version Control"],
+    "Db":["SQL server","Oracle 19c","PL/SQL","MongoDB","Cassandra"]
+}
+]
